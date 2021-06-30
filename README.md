@@ -1,5 +1,5 @@
-   ### Hello 👋 I'm Sreekanth
-<hr/>
+   # Hello 👋 I'm Sreekanth #
+
 
 - 🌱 I’m currently learning MERN Stack Developement      
 - 👯 I’m looking to collaborate with OpenMinded
