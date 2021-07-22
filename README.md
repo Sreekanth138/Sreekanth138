@@ -10,3 +10,5 @@
 
 
 ![Sreekanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreekanth138&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanth138)](https://github.com/sreekanth138/github-readme-stats)
+
